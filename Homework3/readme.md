@@ -4,7 +4,7 @@ data used - https://github.com/DavidBrynnHouse/Data-602/blob/main/Homework3/data
 
 Data was retrieved from: https://www.kaggle.com/synergystud/a-fine-windy-day-hackerearth-ml-challenge
 
-##Features in the dataset:
+## Features in the dataset:
 
     datetime - a string reperesenting the time snapshot when the data was collected
     wind_speed - a measure of how fast the wind was going in meters per second
